@@ -1,3 +1,3 @@
 # Finite Monadology
 
-An analysis of simple cellular automata to find the best possible world.
+A text written in 1992 evaluating the patterns created on a CASIO fx-7200G calculator.
